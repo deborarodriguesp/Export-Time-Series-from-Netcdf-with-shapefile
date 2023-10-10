@@ -11,3 +11,5 @@ Also, it calculates at different time scales, such as:
 - Normal Climate.
 
 Later, these data are saved in different CSV files. 
+
+Any questions, please contact: debora.pereira@tecnico.ulisboa.pt
