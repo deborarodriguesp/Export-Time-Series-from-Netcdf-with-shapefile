@@ -9,5 +9,5 @@ Also, it calculates at different time scales, such as:
 - Monthly
 - Annual
 - Normal Climate.
-- 
+
 Later, these data are saved in different CSV files. 
